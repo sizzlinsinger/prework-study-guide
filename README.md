@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-## My motivation was to create a study guide from the pre-work course. I built a webpage that is a place to store my notes on HTML, CSS, git and JavaScript. It makes it easy to store and access my notes from any device with the internet. Throught the project I learned the basics of HTML, CSS, JavaScript and how we use git to save all of the different versions of out work.
+## My motivation was to create a study guide from the pre-work course. I built a webpage that is a place to store my notes on HTML, CSS, git and JavaScript. It makes it easy to store and access my notes from any device with the internet. Throught the project I learned the basics of HTML, CSS, JavaScript and how we use git to save all of the different versions of our work.
 
 ## Installation
 
